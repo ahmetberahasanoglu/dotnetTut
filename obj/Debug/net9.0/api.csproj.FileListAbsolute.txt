@@ -168,3 +168,4 @@ C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.As
 C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\obj\Debug\net9.0\api.sourcelink.json
