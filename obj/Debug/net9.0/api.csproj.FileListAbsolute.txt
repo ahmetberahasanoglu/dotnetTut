@@ -169,3 +169,9 @@ C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.As
 C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
 C:\Users\ahmet\Documents\JunkProjects\FinShark\api\obj\Debug\net9.0\api.sourcelink.json
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahmet\Documents\JunkProjects\FinShark\api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
